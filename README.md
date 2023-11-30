@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![cover](cover.png)
+
+
 <!--
 **Vinicius84245/Vinicius84245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
